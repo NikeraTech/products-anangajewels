@@ -1,0 +1,149 @@
+@import "tailwindcss";
+
+@theme {
+  /* Emerald & antique gold — taken from the Ananga mandala logo. */
+  --color-ivory: #faf7f0;
+  --color-cream: #f3ede1;
+  --color-sand: #e7dfcf;
+  --color-ink: #17201b;
+  --color-muted: #5f6a63;
+  --color-emerald-950: #071d16;
+  --color-emerald-900: #0b2a20;
+  --color-emerald-800: #12392c;
+  --color-emerald-700: #1a4d3b;
+  --color-emerald-500: #2f7a5c;
+  --color-gold-200: #ecdcb8;
+  --color-gold-300: #dcc28c;
+  --color-gold-400: #c9a465;
+  --color-gold-500: #b08a48;
+  --color-gold-600: #8f6d35;
+  --color-ruby: #8e2a2f;
+
+  --font-display: var(--font-cormorant), "Cormorant Garamond", Georgia, serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --ease-luxe: cubic-bezier(0.22, 1, 0.36, 1);
+
+  --animate-marquee: marquee 40s linear infinite;
+  --animate-shimmer: shimmer 3.5s ease-in-out infinite;
+
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  @keyframes shimmer {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+  }
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    background: var(--color-ivory);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+    letter-spacing: -0.01em;
+  }
+  ::selection {
+    background: var(--color-gold-300);
+    color: var(--color-emerald-950);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-gold-500);
+    outline-offset: 3px;
+  }
+}
+
+@layer components {
+  .container-x {
+    margin-inline: auto;
+    width: 100%;
+    max-width: 80rem;
+    padding-inline: 1rem;
+  }
+  @media (min-width: 640px) { .container-x { padding-inline: 1.5rem; } }
+  @media (min-width: 1024px) { .container-x { padding-inline: 2rem; } }
+
+  .eyebrow {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--color-gold-600);
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 999px;
+    padding: 0.85rem 1.6rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    transition: transform 0.3s var(--ease-luxe), background-color 0.3s, color 0.3s, box-shadow 0.3s, border-color 0.3s;
+  }
+  .btn:active { transform: scale(0.97); }
+  .btn-primary {
+    background: var(--color-emerald-900);
+    color: var(--color-ivory);
+    box-shadow: 0 10px 30px -12px rgb(11 42 32 / 0.6);
+  }
+  .btn-primary:hover { background: var(--color-emerald-700); }
+  .btn-gold {
+    background: linear-gradient(110deg, var(--color-gold-500), var(--color-gold-300), var(--color-gold-500));
+    background-size: 200% 100%;
+    color: var(--color-emerald-950);
+    box-shadow: 0 10px 30px -12px rgb(176 138 72 / 0.7);
+  }
+  .btn-gold:hover { animation: var(--animate-shimmer); }
+  .btn-outline {
+    border: 1px solid currentColor;
+    background: transparent;
+  }
+  .btn-outline:hover { background: rgb(255 255 255 / 0.08); }
+  .btn-whatsapp {
+    background: #1fa855;
+    color: white;
+    box-shadow: 0 10px 30px -12px rgb(31 168 85 / 0.7);
+  }
+  .btn-whatsapp:hover { background: #178c46; }
+
+  .gold-rule {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--color-gold-400), transparent);
+  }
+
+  /* Subtle dot texture for dark sections. */
+  .texture-dots {
+    background-image: radial-gradient(rgb(220 194 140 / 0.12) 1px, transparent 1px);
+    background-size: 22px 22px;
+  }
+
+  .prose-legal h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    font-size: 1.75rem;
+    color: var(--color-emerald-900);
+  }
+  .prose-legal p, .prose-legal li { color: var(--color-muted); line-height: 1.8; }
+  .prose-legal ul { list-style: disc; padding-left: 1.25rem; display: grid; gap: 0.4rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

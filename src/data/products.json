@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "legacy-0",
+    "slug": "vasundhara-emrald-chandbalis-er-15083",
+    "sku": "ER-15083",
+    "name": "Vasundhara Emrald Chandbalis",
+    "price": 14.99,
+    "quantity": 2,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-15083GR-50-DH-25-QTY-2.jpg",
+        "alt": "Vasundhara Emrald Chandbalis"
+      }
+    ],
+    "createdAt": "2025-11-01T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-1",
+    "slug": "chandrika-chandbalis-er-15266",
+    "sku": "ER-15266",
+    "name": "Chandrika Chandbalis",
+    "price": 24.99,
+    "quantity": 2,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-15266PK-93-DE-50-QTY-2.jpg",
+        "alt": "Chandrika Chandbalis"
+      }
+    ],
+    "createdAt": "2025-11-02T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-2",
+    "slug": "radhika-cascade-ear-rings-er-16409",
+    "sku": "ER-16409",
+    "name": "Radhika Cascade Ear Rings",
+    "price": 19.99,
+    "quantity": 3,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16409PK-70-DH-25-QTY-2.jpg",
+        "alt": "Radhika Cascade Ear Rings",
+        "label": "Pink"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16409RMGR-70-DH-25-QTY-2.jpg",
+        "alt": "Radhika Cascade Ear Rings"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16409RU-70-DH-25-QTY-2.jpg",
+        "alt": "Radhika Cascade Ear Rings",
+        "label": "Ruby"
+      }
+    ],
+    "createdAt": "2025-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-3",
+    "slug": "meghavi-regal-studs-er-16410",
+    "sku": "ER-16410",
+    "name": "Meghavi Regal Studs",
+    "price": 14.99,
+    "quantity": 5,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16410MR-43-DH-25-QTY-2.jpg",
+        "alt": "Meghavi Regal Studs",
+        "label": "Maroon"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16410MU-43-DH-25-QTY-2.jpg",
+        "alt": "Meghavi Regal Studs",
+        "label": "Multicolour"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16410PK-43-DH-25-QTY-2.jpg",
+        "alt": "Meghavi Regal Studs",
+        "label": "Pink"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16410RMGR-43-DH-25-QTY-2.jpg",
+        "alt": "Meghavi Regal Studs"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16410YE-43-DH-25-QTY-2.jpg",
+        "alt": "Meghavi Regal Studs",
+        "label": "Yellow"
+      }
+    ],
+    "createdAt": "2025-11-04T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-4",
+    "slug": "swarnima-tear-drop-chandbalis-er-16425",
+    "sku": "ER-16425",
+    "name": "Swarnima Tear Drop Chandbalis",
+    "price": 21.99,
+    "quantity": 2,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16425MO-78-NL-25-QTY-2.jpg",
+        "alt": "Swarnima Tear Drop Chandbalis"
+      }
+    ],
+    "createdAt": "2025-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-5",
+    "slug": "kavya-tribal-bloom-jhumkas-er-16443",
+    "sku": "ER-16443",
+    "name": "Kavya Tribal Bloom Jhumkas",
+    "price": 14.99,
+    "quantity": 3,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "german-silver",
+      "oxidised"
+    ],
+    "images": [
+      {
+        "src": "/products/GERMAN-SILVER-EARRING-ER-16443FE-59-BT-25-QTY-2.jpg",
+        "alt": "Kavya Tribal Bloom Jhumkas"
+      },
+      {
+        "src": "/products/GERMAN-SILVER-EARRING-ER-16443YE-59-BT-25-QTY-2.jpg",
+        "alt": "Kavya Tribal Bloom Jhumkas",
+        "label": "Yellow"
+      }
+    ],
+    "createdAt": "2025-11-06T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-6",
+    "slug": "rajkumari-kundan-chandbalis-er-16454",
+    "sku": "ER-16454",
+    "name": "Rajkumari Kundan Chandbalis",
+    "price": 19.99,
+    "quantity": 3,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kundan"
+    ],
+    "images": [
+      {
+        "src": "/products/KUNDAN-EARRING-ER-16454GR-71-DH-25-QTY-2.jpg",
+        "alt": "Rajkumari Kundan Chandbalis",
+        "label": "Green"
+      },
+      {
+        "src": "/products/KUNDAN-EARRING-ER-16454PK-71-DH-25-QTY-2.jpg",
+        "alt": "Rajkumari Kundan Chandbalis",
+        "label": "Pink"
+      },
+      {
+        "src": "/products/KUNDAN-EARRING-ER-16454RA-71-DH-25-QTY-2.jpg",
+        "alt": "Rajkumari Kundan Chandbalis"
+      }
+    ],
+    "createdAt": "2025-11-07T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-7",
+    "slug": "rudrani-ruby-bloom-chandbalis-er-16494",
+    "sku": "ER-16494",
+    "name": "Rudrani Ruby Bloom Chandbalis",
+    "price": 17.99,
+    "quantity": 2,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-16494RU-56-DH-25-QTY-2.jpg",
+        "alt": "Rudrani Ruby Bloom Chandbalis"
+      }
+    ],
+    "createdAt": "2025-11-08T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-8",
+    "slug": "devika-antique-jhumkas-er-10302",
+    "sku": "ER-10302",
+    "name": "Devika Antique Jhumkas",
+    "price": 24.99,
+    "quantity": 2,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kemp",
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-EARRING-ER-10302RGW-154-DKG.jpg",
+        "alt": "Devika Antique Jhumkas"
+      }
+    ],
+    "createdAt": "2025-11-09T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-9",
+    "slug": "sravani-mayura-er-12057",
+    "sku": "ER-12057",
+    "name": "Sravani Mayura",
+    "price": 24.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-12057RG-107-DKG.jpg",
+        "alt": "Sravani Mayura"
+      }
+    ],
+    "createdAt": "2025-11-10T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-10",
+    "slug": "lakshmi-jhumkas-er-12801",
+    "sku": "ER-12801",
+    "name": "Lakshmi Jhumkas",
+    "price": 24.99,
+    "quantity": 2,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "temple",
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE-KEMP-EARRING-ER-12801RGW-135-DKG.jpg",
+        "alt": "Lakshmi Jhumkas"
+      }
+    ],
+    "createdAt": "2025-11-11T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-11",
+    "slug": "rasika-ruby-kundan-studs-er-13135",
+    "sku": "ER-13135",
+    "name": "Rasika Ruby Kundan Studs",
+    "price": 25.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kundan"
+    ],
+    "images": [
+      {
+        "src": "/products/KUNDAN-EARRING-ER-13135RU-163-AK--QTY-2.jpg",
+        "alt": "Rasika Ruby Kundan Studs"
+      }
+    ],
+    "createdAt": "2025-11-12T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-12",
+    "slug": "royal-mayura-er-13338",
+    "sku": "ER-13338",
+    "name": "Royal Mayura",
+    "price": 17.99,
+    "quantity": 2,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-EARRING-ER-13338RG-80-DKG.jpg",
+        "alt": "Royal Mayura"
+      }
+    ],
+    "createdAt": "2025-11-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-13",
+    "slug": "thejasvi-mirror-drop-chandbalis-er-13900",
+    "sku": "ER-13900",
+    "name": "Thejasvi Mirror Drop Chandbalis",
+    "price": 11.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [],
+    "images": [
+      {
+        "src": "/products/ER-13900RG-40-VS.jpg",
+        "alt": "Thejasvi Mirror Drop Chandbalis",
+        "label": "Ruby Green"
+      },
+      {
+        "src": "/products/ER-13900RU-40-VS.jpg",
+        "alt": "Thejasvi Mirror Drop Chandbalis",
+        "label": "Ruby"
+      }
+    ],
+    "createdAt": "2025-11-14T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-14",
+    "slug": "varnika-heritage-fans-er-13904",
+    "sku": "ER-13904",
+    "name": "Varnika Heritage Fans",
+    "price": 11.99,
+    "quantity": 2,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [],
+    "images": [
+      {
+        "src": "/products/ER-13904bl-38-VS.jpg",
+        "alt": "Varnika Heritage Fans",
+        "label": "Blue"
+      },
+      {
+        "src": "/products/ER-13904RG-38-VS.jpg",
+        "alt": "Varnika Heritage Fans",
+        "label": "Ruby Green"
+      }
+    ],
+    "createdAt": "2025-11-15T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-15",
+    "slug": "madhulika-er-13996",
+    "sku": "ER-13996",
+    "name": "Madhulika",
+    "price": 14.99,
+    "quantity": 4,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-13996MTGR-55-JV.jpg",
+        "alt": "Madhulika"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-13996PH-55-JV.jpg",
+        "alt": "Madhulika"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-13996PK-55-JV.jpg",
+        "alt": "Madhulika",
+        "label": "Pink"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-13996RG-55-JV.jpg",
+        "alt": "Madhulika",
+        "label": "Ruby Green"
+      },
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-13996RU-55-JV.jpg",
+        "alt": "Madhulika",
+        "label": "Ruby"
+      }
+    ],
+    "createdAt": "2025-11-16T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-16",
+    "slug": "gaja-grace-tribal-studs-er-14235",
+    "sku": "ER-14235",
+    "name": "Gaja Grace Tribal Studs",
+    "price": 11.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": true,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "oxidised"
+    ],
+    "images": [
+      {
+        "src": "/products/ER-14235RU-40-KNS.jpg",
+        "alt": "Gaja Grace Tribal Studs"
+      }
+    ],
+    "createdAt": "2025-11-17T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-17",
+    "slug": "padmika-rose-bloom-er-14813",
+    "sku": "ER-14813",
+    "name": "Padmika Rose Bloom",
+    "price": 19.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-14813PK-80-MJ-12-QTY-2.jpg",
+        "alt": "Padmika Rose Bloom"
+      }
+    ],
+    "createdAt": "2025-11-18T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-18",
+    "slug": "sitara-white-rhodium-cascades-er-16470",
+    "sku": "ER-16470",
+    "name": "Sitara White Rhodium Cascades",
+    "price": 21.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "american-diamond"
+    ],
+    "images": [
+      {
+        "src": "/products/AD-EARRING-ER-16470W-136-MB.jpg",
+        "alt": "Sitara White Rhodium Cascades"
+      }
+    ],
+    "createdAt": "2025-11-19T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-19",
+    "slug": "haripriya-kundan-chandbalis-er-16549",
+    "sku": "ER-16549",
+    "name": "Haripriya Kundan Chandbalis",
+    "price": 21.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kundan",
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-EARRING-ER-16549RG-110-DKG-25-QTY-2.jpg",
+        "alt": "Haripriya Kundan Chandbalis"
+      }
+    ],
+    "createdAt": "2025-11-20T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-20",
+    "slug": "mayura-pearl-jhumkas-er-7874",
+    "sku": "ER-7874",
+    "name": "Mayura Pearl Jhumkas",
+    "price": 19.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [],
+    "images": [
+      {
+        "src": "/products/ER-7874GR-94-MO.jpg",
+        "alt": "Mayura Pearl Jhumkas"
+      }
+    ],
+    "createdAt": "2025-11-21T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-21",
+    "slug": "meera-boho-bloom-chandbalis-er-8074",
+    "sku": "ER-8074",
+    "name": "Meera Boho Bloom Chandbalis",
+    "price": 17.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "western"
+    ],
+    "images": [
+      {
+        "src": "/products/ER-8074RG-61-DJ-12345.jpg",
+        "alt": "Meera Boho Bloom Chandbalis"
+      }
+    ],
+    "createdAt": "2025-11-22T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-22",
+    "slug": "rangana-chandbalis-er-9275",
+    "sku": "ER-9275",
+    "name": "Rangana Chandbalis",
+    "price": 19.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-EARRING-ER-9275W-101-DH.jpg",
+        "alt": "Rangana Chandbalis"
+      }
+    ],
+    "createdAt": "2025-11-23T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-23",
+    "slug": "antique-necklace-set-ns-9122",
+    "sku": "NS-9122",
+    "name": "Antique Necklace Set",
+    "price": 12.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-NECKLACE-SET-NS-9122GO-64-MK.jpg",
+        "alt": "Antique Necklace Set"
+      }
+    ],
+    "createdAt": "2025-11-24T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-24",
+    "slug": "antique-necklace-set-ns-13908",
+    "sku": "NS-13908",
+    "name": "Antique Necklace Set",
+    "price": 19.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-NECKLACE-SET-NS-13908RG-68-OM-12-QTY-2.jpg",
+        "alt": "Antique Necklace Set"
+      }
+    ],
+    "createdAt": "2025-11-25T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-25",
+    "slug": "antique-necklace-set-ns-15669",
+    "sku": "NS-15669",
+    "name": "Antique Necklace Set",
+    "price": 11.99,
+    "quantity": 2,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-NECKLACE-SET-NS-15669RG-40-CC-25-QTY-2.jpg",
+        "alt": "Antique Necklace Set",
+        "label": "Ruby Green"
+      },
+      {
+        "src": "/products/ANTIQUE-NECKLACE-SET-NS-15669RU-40-CC-25-QTY-2.jpg",
+        "alt": "Antique Necklace Set",
+        "label": "Ruby"
+      },
+      {
+        "src": "/products/ANTIQUE-NECKLACE-SET-NS-15669BL-40-CC-25-QTY-2.jpg",
+        "alt": "Antique Necklace Set",
+        "label": "Blue"
+      }
+    ],
+    "createdAt": "2025-11-26T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-26",
+    "slug": "antique-necklace-set-ns-16722",
+    "sku": "NS-16722",
+    "name": "Antique Necklace Set",
+    "price": 12.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-NECKLACE-SET-NS-16722GR-55-CC-25-QTY-2.jpg",
+        "alt": "Antique Necklace Set"
+      }
+    ],
+    "createdAt": "2025-11-27T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-27",
+    "slug": "antique-necklace-set-ns-17456",
+    "sku": "NS-17456",
+    "name": "Antique Necklace Set",
+    "price": 14.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": true,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-NECKLACE-SET-NS-17456GR-50-NJ-25-QTY-2.jpg",
+        "alt": "Antique Necklace Set"
+      }
+    ],
+    "createdAt": "2025-11-28T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-28",
+    "slug": "antique-necklace-set-ns-17469",
+    "sku": "NS-17469",
+    "name": "Antique Necklace Set",
+    "price": 9.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-NECKLACE-SET-NS-17469BL-27-NJ-25-QTY-2.jpg",
+        "alt": "Antique Necklace Set"
+      }
+    ],
+    "createdAt": "2025-11-29T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-29",
+    "slug": "earring-er-11076",
+    "sku": "ER-11076",
+    "name": "Earring",
+    "price": 19.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [],
+    "images": [
+      {
+        "src": "/products/ER-11076PK-139-MB.jpg",
+        "alt": "Earring"
+      }
+    ],
+    "createdAt": "2025-11-30T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-30",
+    "slug": "kemp-earring-er-13979",
+    "sku": "ER-13979",
+    "name": "Kemp Earring",
+    "price": 21.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-EARRING-ER-13979MU-174-DKG-25-QTY-2.jpg",
+        "alt": "Kemp Earring"
+      }
+    ],
+    "createdAt": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-31",
+    "slug": "kemp-earring-er-15676",
+    "sku": "ER-15676",
+    "name": "Kemp Earring",
+    "price": 16.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-EARRING-ER-15676RG-69-DKG-25-QTY-2.jpg",
+        "alt": "Kemp Earring",
+        "label": "Ruby Green"
+      },
+      {
+        "src": "/products/KEMP-EARRING-ER-15676RU-69-DKG-25-QTY-2.jpg",
+        "alt": "Kemp Earring",
+        "label": "Ruby"
+      }
+    ],
+    "createdAt": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-32",
+    "slug": "kemp-earring-er-16565",
+    "sku": "ER-16565",
+    "name": "Kemp Earring",
+    "price": 11.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-EARRING-ER-16565RG-49-DKG-25-QTY-2.jpg",
+        "alt": "Kemp Earring"
+      }
+    ],
+    "createdAt": "2025-12-03T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-33",
+    "slug": "kemp-necklace-set-ns-17478",
+    "sku": "NS-17478",
+    "name": "Kemp Necklace Set",
+    "price": 24.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-NECKLACE-SET-NS-17478RU-144-DKG-12-QTY-2.jpg",
+        "alt": "Kemp Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-04T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-34",
+    "slug": "kemp-necklace-set-ns-17480",
+    "sku": "NS-17480",
+    "name": "Kemp Necklace Set",
+    "price": 29.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": true,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-NECKLACE-SET-NS-17480RU-244-DKG-12-QTY-2.jpg",
+        "alt": "Kemp Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-05T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-35",
+    "slug": "kemp-necklace-set-ns-17510",
+    "sku": "NS-17510",
+    "name": "Kemp Necklace Set",
+    "price": 29.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": true,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-NECKLACE-SET-NS-17510RU-249-DKG-12-QTY-2.jpg",
+        "alt": "Kemp Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-06T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-36",
+    "slug": "kemp-necklace-set-ns-17525",
+    "sku": "NS-17525",
+    "name": "Kemp Necklace Set",
+    "price": 24.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": true,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-NECKLACE-SET-NS-17525W-162-DKG.jpg.jpg",
+        "alt": "Kemp Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-07T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-37",
+    "slug": "necklace-set-ns-9121",
+    "sku": "NS-9121",
+    "name": "Necklace Set",
+    "price": 12.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [],
+    "images": [
+      {
+        "src": "/products/NS-9121GO-58-MK.jpg",
+        "alt": "Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-08T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-38",
+    "slug": "oxidised-necklace-set-ns-8301",
+    "sku": "NS-8301",
+    "name": "Oxidised Necklace Set",
+    "price": 11.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "oxidised"
+    ],
+    "images": [
+      {
+        "src": "/products/OXIDIZED-NECKLACE-SET-NS-8301BL-49-DE.jpg",
+        "alt": "Oxidised Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-09T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-39",
+    "slug": "temple-bangle-bg-2776",
+    "sku": "BG-2776",
+    "name": "Temple Bangle",
+    "price": 9.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "bangles",
+    "styles": [
+      "temple"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE--BANGELS-BG-2776-36-YY-12-QTY-2.jpg",
+        "alt": "Temple Bangle"
+      }
+    ],
+    "createdAt": "2025-12-10T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-40",
+    "slug": "temple-necklace-set-ns-14444",
+    "sku": "NS-14444",
+    "name": "Temple Necklace Set",
+    "price": 49.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "temple"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE-NECKLACE-SET-NS-14444RG-275-OM-12-QTY-2.jpg",
+        "alt": "Temple Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-11T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-41",
+    "slug": "temple-necklace-set-ns-16208",
+    "sku": "NS-16208",
+    "name": "Temple Necklace Set",
+    "price": 12.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "temple"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE-NECKLACE-SET-NS-16208RG-46-RG-15-QTY-2.jpg",
+        "alt": "Temple Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-12T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-42",
+    "slug": "temple-necklace-set-ns-16212",
+    "sku": "NS-16212",
+    "name": "Temple Necklace Set",
+    "price": 19.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": true,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "temple"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE-NECKLACE-SET-NS-16212RG-104-CC-25-QTY-2.jpg",
+        "alt": "Temple Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-43",
+    "slug": "temple-necklace-set-ns-17360",
+    "sku": "NS-17360",
+    "name": "Temple Necklace Set",
+    "price": 24.99,
+    "quantity": 1,
+    "isNew": false,
+    "soldOut": true,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "temple"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE-NECKLACE-SET-NS-17360GO-140-KD-15-QTY-2.jpg",
+        "alt": "Temple Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-14T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-44",
+    "slug": "kemp-earring-er-16594",
+    "sku": "ER-16594",
+    "name": "Kemp Earring",
+    "price": 12.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kemp",
+      "american-diamond"
+    ],
+    "images": [
+      {
+        "src": "/products/AD-KEMP-EARRING-ER-16594W-48-MR.jpg",
+        "alt": "Kemp Earring"
+      }
+    ],
+    "createdAt": "2025-12-15T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-45",
+    "slug": "antique-bangle-bg-2799",
+    "sku": "BG-2799",
+    "name": "Antique Bangle",
+    "price": 11.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "bangles",
+    "styles": [
+      "antique"
+    ],
+    "images": [
+      {
+        "src": "/products/ANTIQUE-BANGLE-BG-2799RG-40-MT-6-QTY-2.jpg",
+        "alt": "Antique Bangle"
+      }
+    ],
+    "createdAt": "2025-12-16T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-46",
+    "slug": "kemp-earring-er-10038",
+    "sku": "ER-10038",
+    "name": "Kemp Earring",
+    "price": 19.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/ER-10038RU-132-DKG.jpg",
+        "alt": "Kemp Earring",
+        "label": "Ruby"
+      },
+      {
+        "src": "/products/KEMP-EARRING-ER-10038RG-132-DKG.jpg",
+        "alt": "Kemp Earring",
+        "label": "Ruby Green"
+      }
+    ],
+    "createdAt": "2025-12-17T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-47",
+    "slug": "kemp-earring-er-9491",
+    "sku": "ER-9491",
+    "name": "Kemp Earring",
+    "price": 17.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-EARRING-ER-9491RGW-106-DKG.jpg",
+        "alt": "Kemp Earring"
+      }
+    ],
+    "createdAt": "2025-12-18T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-48",
+    "slug": "kemp-earring-er-14862",
+    "sku": "ER-14862",
+    "name": "Kemp Earring",
+    "price": 17.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "earrings",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-EARRING-ER-14862MU-80-DKG-25-QTY-2.jpg",
+        "alt": "Kemp Earring"
+      }
+    ],
+    "createdAt": "2025-12-19T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-49",
+    "slug": "necklace-set-ns-13741",
+    "sku": "NS-13741",
+    "name": "Necklace Set",
+    "price": 11.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [],
+    "images": [
+      {
+        "src": "/products/NS-13741RU-34-RH.jpg",
+        "alt": "Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-20T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-50",
+    "slug": "necklace-set-ns-17456",
+    "sku": "NS-17456",
+    "name": "Necklace Set",
+    "price": 14.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": true,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [],
+    "images": [
+      {
+        "src": "/products/NS-17456RU-50-NJ.jpg",
+        "alt": "Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-21T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-51",
+    "slug": "temple-ring-fr-2770",
+    "sku": "FR-2770",
+    "name": "Temple Ring",
+    "price": 5.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "rings",
+    "styles": [
+      "temple"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE-FINGER-RING-FR-2770RU-21-SI-15-QTY-2.jpg",
+        "alt": "Temple Ring"
+      }
+    ],
+    "createdAt": "2025-12-22T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-52",
+    "slug": "temple-necklace-set-ns-16225",
+    "sku": "NS-16225",
+    "name": "Temple Necklace Set",
+    "price": 13.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "temple"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE-NECKLACE-SET-NS-16225RU-79-CC-25-QTY-2.jpg",
+        "alt": "Temple Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-23T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-53",
+    "slug": "temple-necklace-set-ns-16258",
+    "sku": "NS-16258",
+    "name": "Temple Necklace Set",
+    "price": 49.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "temple"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE-NECKLACE-SET-NS-16258GO-280-SI-15-QTY-2.jpg",
+        "alt": "Temple Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-24T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-54",
+    "slug": "temple-necklace-set-ns-16944",
+    "sku": "NS-16944",
+    "name": "Temple Necklace Set",
+    "price": 12.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "temple"
+    ],
+    "images": [
+      {
+        "src": "/products/TEMPLE-NECKLACE-SET-NS-16944RG-61-CAG-15-QTY-2.jpg",
+        "alt": "Temple Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-25T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-55",
+    "slug": "western-necklace-set-ns-9115",
+    "sku": "NS-9115",
+    "name": "Western Necklace Set",
+    "price": 11.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "western"
+    ],
+    "images": [
+      {
+        "src": "/products/WESTERN-NECKLACE-SET-NS-9115BL-43-TA.jpg",
+        "alt": "Western Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-26T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-56",
+    "slug": "kemp-necklace-set-ns-9070",
+    "sku": "NS-9070",
+    "name": "Kemp Necklace Set",
+    "price": 21.99,
+    "quantity": 1,
+    "isNew": true,
+    "soldOut": false,
+    "featured": false,
+    "category": "necklace-sets",
+    "styles": [
+      "kemp"
+    ],
+    "images": [
+      {
+        "src": "/products/KEMP-NECKLACE-SET-NS-9070RU-48-RE.jpg",
+        "alt": "Kemp Necklace Set"
+      }
+    ],
+    "createdAt": "2025-12-27T00:00:00.000Z"
+  }
+]
